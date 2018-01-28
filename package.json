@@ -1,0 +1,23 @@
+{
+  "name": "nojson-base",
+  "version": "0.0.1",
+  "description": "Semantic script runs as some terminology-values while json plain string is parsing.Carrying a mirror part of the server logic code(a huge nojson-script)which supports a small event system to join a independent front-end implementation",
+  "scripts": {
+    "test":"tsc && node test/index.js"
+  },
+  "author": "jackyanjiaqi",
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/jackyanjiaqi/nojson-base.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+  },
+  "keywords": [
+    "not only json",
+    "json in-line language",
+    "json value",
+    "nojson",
+    "no-json"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "(":{
+    "Expression":{
+      ")":{
+        "jump":"ExpressionSingle",
+        "_end":"ExpressionSingle"
+      }
+    }
+  },
+  "Defination":{
+    "jump":"ExpressionSingle",
+    "_end":"ExpressionSingle"
+  },
+  "Operate":{
+    "jump":"ExpressionSingle",
+    "_end":"ExpressionSingle"
+  }
+}

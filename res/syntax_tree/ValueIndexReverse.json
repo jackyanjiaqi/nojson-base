@@ -1,0 +1,13 @@
+{
+  "reverse":1,
+  "Value.number.integer":{
+    "x":{
+      "0":{
+        "_end":"Value.index"
+      }
+    },
+    "0":{
+      "_end":"Value.index"
+    }
+  }
+}

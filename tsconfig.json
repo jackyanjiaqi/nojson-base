@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "target": "es6",
+        "outDir": "lib",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "noImplicitUseStrict": true,
+        "allowUnreachableCode": true
+    },
+    "exclude": [
+        "node_modules",
+        "templates",
+        "lib/typescript",
+        "lib/core/typescript",
+        "res",
+        "test"
+    ]
+}

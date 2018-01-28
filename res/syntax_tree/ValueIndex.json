@@ -1,0 +1,12 @@
+{
+  "0":{
+    "Value.number.integer":{
+      "_end":"Value.index"
+    },
+    "x":{
+      "Value.number.integer":{
+        "_end":"Value.index"
+      }
+    }
+  }
+}
